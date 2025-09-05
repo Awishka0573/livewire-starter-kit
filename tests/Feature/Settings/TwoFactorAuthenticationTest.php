@@ -4,8 +4,6 @@ namespace Tests\Feature\Settings;
 
 use App\Models\User;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Routing\Route;
-use Illuminate\Support\Facades\Artisan;
 use Laravel\Fortify\Features;
 use Livewire\Volt\Volt;
 use Tests\TestCase;
